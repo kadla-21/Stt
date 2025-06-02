@@ -1,0 +1,24 @@
+Experiment 7: Use Tables and AutoSum in Excel
+
+1. Convert Data to a Table:
+
+Select a data range.
+
+Go to Insert > Table and click OK.
+
+
+
+2. Filter Data:
+
+Click the drop-down arrow in a column header and select the criteria (e.g., filter for “Product A”).
+
+
+
+3. Using AutoSum:
+
+Click in an empty cell below a column of numbers.
+
+On the Home tab, click the AutoSum button.
+
+Press Enter to confirm the sum.
+
