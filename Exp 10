@@ -1,0 +1,41 @@
+Experiment 10: Create a Google Form and Link to Google Sheets
+
+1. Create the Form:
+
+Open your browser and navigate to forms.google.com.
+
+Click Blank (or choose a template).
+
+Change the title (e.g., “Event Registration Form”) and add a description if desired.
+
+
+
+2. Add Questions:
+
+Click the + icon to add a new question.
+
+For a short answer question, type a prompt such as: “What is your name?”
+
+For multiple choice, type: “How did you hear about us?” and add options.
+
+
+
+3. Customize Appearance:
+
+Click the Palette icon to change the theme or colour.
+
+
+
+4. Preview and Send:
+
+Click the eye icon (preview) to test the form.
+
+Click Send, and choose to share via email or a link.
+
+
+
+5. Link to Google Sheets:
+
+In the form, click on the Responses tab.
+
+Click the Google Sheets icon to create a new spreadsheet (e.g., “EventResponses”) where responses will be automatically saved.
