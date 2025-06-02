@@ -1,0 +1,28 @@
+Experiment 6: Create Simple Calculations in Excel
+
+1. Direct Cell Formula:
+
+In cell A1, type 100. In cell B1, type 50.
+
+In cell C1, type:
+=A1-B1
+(It will display 50.)
+
+
+
+2. Using Defined Names:
+
+Click on cell A1, then click in the Name Box (left of the formula bar) and type Revenue.
+
+Click on cell B1, then define it as Expenses.
+
+In cell C2, type:
+=Revenue-Expenses
+
+
+
+3. Creating Formulas with the Function Wizard:
+
+Click on Formulas > Insert Function.
+
+Select a function (for example, SUM) and follow the wizard to choose the cell range.
