@@ -1,0 +1,52 @@
+Experiment 2: Mail Merge in MS Word
+
+1. Start a New Mail Merge List:
+
+Open a new Blank Document in Word.
+
+Go to Mailings > Select Recipients > Type New List.
+
+
+
+2. Enter Recipient Information:
+
+In the dialog that opens, enter sample data in each column. For instance, you may have columns such as:
+
+First Name: Alice
+
+Last Name: Smith
+
+Address: 789 Maple Street
+
+City: YourCity
+
+
+Click Add New after each record. Add several entries so you have a full list.
+
+
+
+3. Save the List:
+
+When finished, click OK.
+
+In the Save dialog box, give the list a name like “MailMergeList” and click Save.
+
+
+
+4. Insert Merge Fields into Your Document:
+
+Place the cursor where you want a field to appear.
+
+Click Insert Merge Field and choose fields like First Name, Last Name, etc.
+
+Use the fields to create a sample letter or invitation. For example:
+
+Dear «First_Name» «Last_Name»,
+
+We are pleased to invite you to our event at 123 Event Plaza.
+
+
+
+5. Complete the Merge:
+
+Click Finish & Merge to print or edit individual letters.
