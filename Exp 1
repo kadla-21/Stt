@@ -1,0 +1,43 @@
+Experiment 1: Create and Print an Envelope in MS Word
+
+1. Set Up the Return Address (once only):
+
+Open Word.
+
+Go to File > Options > Advanced.
+
+Scroll down to the Mailing address box and type your return address. For example:
+
+Your Name
+123 Your Street
+Your City, Your State, ZIP
+
+Click OK.
+
+
+
+2. Create the Envelope:
+
+Go to Mailings > Envelopes.
+
+In the Delivery Address box, type the recipient’s address. Example:
+
+John Doe
+456 Main Avenue
+Anytown, XX 12345
+
+In the Return Address box, you can either let Word use the saved address or retype it.
+
+
+
+3. Adjust Options and Print:
+
+Click Options.
+
+Under Envelope Options, select the appropriate size.
+
+Click on Printing Options to see how your printer loads the envelope.
+
+Load an envelope into your printer as specified by the dialogue.
+
+(Optional) Click Print for a test print.
