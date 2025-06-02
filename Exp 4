@@ -1,0 +1,54 @@
+Experiment 4: Use MS Excel's Statistical Functions
+
+1. Enter Sample Data:
+
+Open Excel and enter a list of numbers in cells A1 to A10. For example:
+
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+
+
+
+2. Write and Test Formulas:
+
+Average: In a new cell, type:
+=AVERAGE(A1:A10)
+Expected result: 55.
+
+Standard Deviation:
+=STDEV(A1:A10)
+
+Count:
+=COUNT(A1:A10)
+
+Max:
+=MAX(A1:A10)
+Expected result: 100.
+
+Min:
+=MIN(A1:A10)
+Expected result: 10.
+
+Sum:
+=SUM(A1:A10)
+
+Median:
+=MEDIAN(A1:A10)
+
+Mode:
+=MODE(A1:A10)
+
+Correlation (with a second set in B1:B10):
+=CORREL(A1:A10, B1:B10)
+
+Variance:
+=VAR(A1:A10)
+
