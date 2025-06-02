@@ -1,0 +1,28 @@
+Experiment 5: Create and Use a Pivot Table in Excel
+
+1. Prepare Your Data:
+
+Enter sample data in a table, for example:
+| Product | Category  | Sales  | |---------|-----------|--------| | A       | Office    | 100    | | B       | Home      | 150    | | A       | Office    | 200    | | C       | Electronics | 300  |
+
+
+
+2. Insert PivotTable:
+
+Select your entire table.
+
+Go to Insert > PivotTable.
+
+Choose to place the PivotTable in a new worksheet and click OK.
+
+
+
+3. Build the PivotTable:
+
+Drag Product to the Rows area.
+
+Drag Sales to the Values area.
+
+To add a filter, drag Category into the Filters area.
+
+(Optional) Use PivotTable Analyze > Insert Slicer for visual filtering.
